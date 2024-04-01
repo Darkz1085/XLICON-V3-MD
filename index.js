@@ -16,7 +16,7 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
 //  * @project_name : XLICON-V3-MD
-//  * @author : salmanytofficial
+//  * @author : Dark-Z Hackuing      
 //  * @youtube : https://www.youtube.com/@s4salmanyt
 //   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
 //*
